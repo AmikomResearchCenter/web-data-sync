@@ -1,0 +1,1 @@
+<?php class Posting extends ActiveRecord\Model{ }
